@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "723578686052",
+    "project_id": "firebase-cardflip"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723578686052:android:22d40ab2889d1db5",
+        "android_client_info": {
+          "package_name": "com.codeviv.cardflip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723578686052-q2evijvbimkmd2tgslr9517encl7q5ov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codeviv.cardflip",
+            "certificate_hash": "9DE803B0BF49315B64B7FD49B203D0709605F099"
+          }
+        },
+        {
+          "client_id": "723578686052-l9d8idsmrqucg86m9tkgctghj849jf67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYGsG9tzthS2LZEhj0sXVwTBtqqDaYw6w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -16,13 +16,15 @@ import android.widget.Button;
 
 import com.codeviv.cardflip.R;
 import com.codeviv.cardflip.fragment.CardFrontFragment;
+import com.facebook.CallbackManager;
+import com.facebook.login.LoginManager;
+import com.facebook.login.widget.LoginButton;
 
 /**
  * Created by vivek on 12/28/2016.
  */
 
 public class CardFlipActivity extends Activity {
-
 
     Button btnFlip;
 
